@@ -15,16 +15,7 @@ To use the YouTube_Scraper, follow these steps:
 
 - Ensure you have valid YouTube API keys. in this script the API keys are hardcoded in a list, with one key per line.
 - Modify the SEARCH_TERM and FILENAME to include the topics or channel names you're interested in and define the name of the output file.
-- Run the script with a starting date parameter in the format, it is hardcoded YYYY, M (Year, Month). 
-
-## Installation
-
-Before diving in, ensure you have Python installed on your machine. Then, clone this repository to get started:
-
-```bash
-git clone https://github.com/yourusername/YouTube_Scraper.git
-cd YouTube_Scraper
-
+- Run the script with a starting date parameter in the format, it is hardcoded YYYY, M (Year, Month).
 
 ## License
 
@@ -37,5 +28,16 @@ A big thank you to ChatGPT for assisting in the development of this script. Your
 ## Contact
 
 Got questions or suggestions? Feel free to reach out to me directly through GitHub or leave an issue in the repository.
+
+## Installation
+
+Before diving in, ensure you have Python installed on your machine. Then, clone this repository to get started:
+
+```bash
+git clone https://github.com/yourusername/YouTube_Scraper.git
+cd YouTube_Scraper
+
+
+
 
 
