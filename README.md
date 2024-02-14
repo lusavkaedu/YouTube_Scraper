@@ -9,6 +9,14 @@ Welcome to the **YouTube_Scraper** repository! This Python script is your gatewa
 - **Metadata Retrieval:** Video IDs, channel names, video name, number of likes, number of views. You can add more metadata as needed by altering the script. 
 - **Efficient API Key Rotation:** Maximizing your data collection efforts, the script smartly rotates through several API keys to work around daily quota limits.
 
+## Usage
+
+To use the YouTube_Scraper, follow these steps:
+
+    1. Ensure you have valid YouTube API keys. in this script the API keys are hardcoded in a list, with one key per line.
+    2. Modify the SEARCH_TERM and FILENAME to include the topics or channel names you're interested in and define the name of the output file.
+    3. Run the script with a starting date parameter in the format, it is hardcoded YYYY, M (Year, Month). 
+
 ## Installation
 
 Before diving in, ensure you have Python installed on your machine. Then, clone this repository to get started:
@@ -17,10 +25,4 @@ Before diving in, ensure you have Python installed on your machine. Then, clone 
 git clone https://github.com/yourusername/YouTube_Scraper.git
 cd YouTube_Scraper
 
-## Usage
 
-To use the YouTube_Scraper, follow these steps:
-
-    1. Ensure you have valid YouTube API keys. in this script the API keys are hardcoded in a list, with one key per line.
-    2. Modify the SEARCH_TERM and FILENAME to include the topics or channel names you're interested in and define the name of the output file.
-    3. Run the script with a starting date parameter in the format, it is hardcoded YYYY, M (Year, Month). 
