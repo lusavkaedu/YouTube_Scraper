@@ -26,3 +26,16 @@ git clone https://github.com/yourusername/YouTube_Scraper.git
 cd YouTube_Scraper
 
 
+## License
+
+This project is open-source and available under the MIT License.
+
+## Credits
+
+A big thank you to ChatGPT for assisting in the development of this script. Your contributions have been invaluable.
+
+## Contact
+
+Got questions or suggestions? Feel free to reach out to me directly through GitHub or leave an issue in the repository.
+
+
