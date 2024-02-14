@@ -7,7 +7,7 @@ Welcome to the **YouTube_Scraper** repository! This Python script is your gatewa
 - **Customizable Searches:** The script allows for flexible search terms, including lists of terms or specific channel names.
 - **Time-bound Data Collection:** Set a starting date, and the script gathers data month by month, ensuring the metadata on a maximum number of useful videos gets harvested. This is helpful to ensure that there is a thorough search, with key videos captured for each month in the past.  
 - **Metadata Retrieval:** Video IDs, channel names, video name, number of likes, number of views. You can add more metadata as needed by altering the script. 
-- **Efficient API Key Rotation:** Maximizing your data collection efforts, the script smartly rotates through several API keys to work around daily quota limits.
+- **Efficient API Key Rotation:** YoutTube API limits the number of requests per day, which can be limiting if you need to collect a lot of data. Maximizing your data collection efforts, the script smartly rotates through several API keys to work around daily quota limits. 
 
 ## Usage
 
