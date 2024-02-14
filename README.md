@@ -13,9 +13,9 @@ Welcome to the **YouTube_Scraper** repository! This Python script is your gatewa
 
 To use the YouTube_Scraper, follow these steps:
 
-    1. Ensure you have valid YouTube API keys. in this script the API keys are hardcoded in a list, with one key per line.
-    2. Modify the SEARCH_TERM and FILENAME to include the topics or channel names you're interested in and define the name of the output file.
-    3. Run the script with a starting date parameter in the format, it is hardcoded YYYY, M (Year, Month). 
+- 1. Ensure you have valid YouTube API keys. in this script the API keys are hardcoded in a list, with one key per line.
+- 2. Modify the SEARCH_TERM and FILENAME to include the topics or channel names you're interested in and define the name of the output file.
+- 3. Run the script with a starting date parameter in the format, it is hardcoded YYYY, M (Year, Month). 
 
 ## Installation
 
